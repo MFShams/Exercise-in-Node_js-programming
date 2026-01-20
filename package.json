@@ -1,0 +1,17 @@
+{
+  "name": "file-processor-exercise",
+  "version": "1.0.0",
+  "description": "Node.js Event-Driven File Processor Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/file-processor.spec.js"
+  },
+  "keywords": ["nodejs", "eventemitter", "async", "exercise"],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^10.0.0",
+    "chai": "^4.3.0",
+    "sinon": "^14.0.0"
+  }
+}
