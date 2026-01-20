@@ -1,26 +1,18 @@
 Exercise-in-Node_js-programming/
 
-
 ├── README.md
-
 
 ├── package.json
 
-
 ├── index.js
-
 
 ├── file-processor.js
 
-
 ├── file-service.js
-
 
 ├── test/
 
-
 │   ├── file-processor.spec.js
-
 
 │   └── mocha.opts
 
@@ -30,7 +22,7 @@ Exercise-in-Node_js-programming/
 
 Create a File Processor module that asynchronously processes files and emits events at different stages of processing. The processor should handle file validation, asynchronous processing, and proper error handling using Node.js EventEmitter.
 
-This exercise was designed by DeepSeek for me to practice programming with Node.js
+**Disclaimer:** This exercise was designed by DeepSeek for me to practice programming with Node.js
 
 ## Requirements
 
